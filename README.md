@@ -10,3 +10,4 @@ The following picture illustrates the database's structure:
 <img src=dvd-rental-sample-database-diagram.png width=80% />
 
 ## This was completed as a CSCI143 Homework
+
